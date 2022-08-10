@@ -21,21 +21,10 @@ Here are some ideas to get you started:
 </div> 
 -->
 
-## Estatísticas
-
 <div align="left">
     <a href="https://github.com/ph662">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ph662&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph662&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
-
-## Home Office (Desktop)
-
-<div align="left">
-    <img align="center" alt="Intel-10700K"  src="https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-    <img align="center" alt="NVidia-1080ti"  src="https://img.shields.io/badge/NVIDIA-GTX1080ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-    <img align="center" alt="Windows"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-       
 </div>
 
 ## Tech skills
